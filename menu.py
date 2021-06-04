@@ -1,4 +1,4 @@
-#from calculator import add, substracts
+from calculator import add, substracts
 
 def menu():
     opcion = 0
